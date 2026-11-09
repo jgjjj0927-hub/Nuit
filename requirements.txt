@@ -1,0 +1,9 @@
+nuitka
+ordered-set
+zstandard
+pywin32
+pycryptodome
+pyperclip
+requests
+psutil
+pillow
